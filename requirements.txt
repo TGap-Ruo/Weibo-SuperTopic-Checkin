@@ -1,0 +1,4 @@
+Flask==2.3.3
+requests==2.31.0
+Werkzeug==2.3.7
+gevent==23.9.1  # 可选：提升并发性能
