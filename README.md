@@ -2,7 +2,7 @@
 
 > 参考项目：[https://github.com/imhuimie/WeiBo](https://github.com/imhuimie/WeiBo)
 > 
-> 作者：Szy & Hjz
+> 作者：Szy & Jay Zheng
 
 
 
