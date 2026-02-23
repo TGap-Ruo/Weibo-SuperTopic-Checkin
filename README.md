@@ -1,6 +1,7 @@
 # 微博超话批量签到工具
 
 > 参考项目：[https://github.com/imhuimie/WeiBo](https://github.com/imhuimie/WeiBo)
+> 作者：Szy & Hjz
 
 
 
